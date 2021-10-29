@@ -3,7 +3,7 @@ Easily create maps of Level-2 mosaics (created in NASA SeaDAS) in Matlab. Must b
 
 # How to set up folders
 - Add m_map to functions, found here: https://www.eoas.ubc.ca/~rich/map.html
-- Download your imagery, move to data > single, or create mosaics and move to data > mosaics
+- Create mosaics and move to folder "mosaics"
 
 # .m file descriptions:
 mapL2_mosaics.m: Plot mosaics. example mosaics include chlorophyll-a, particulate organic carbon (POC), and particulate inorganic carbon (PIC). can specify parameters of interest when you create your own mosaics:
