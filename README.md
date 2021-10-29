@@ -16,3 +16,6 @@ mapL2_mosaics.m: Plot mosaics. example mosaics include chlorophyll-a, particulat
 3. Map Projection Definition: Projection: UTM / WGS 84 (Automatic). Select mosaic bounds. 
 4. Variables & Conditions: Select variables of interest for mosaicking.
 5. Hit Run. (Note: check to make sure your mosaic bounds are still selected before running. sometimes SeaDAS resets this option, and it will take longer to run the process)
+
+# Tip: 
+Mosaicking works well with VIIRS-SNPP, VIIRS-JPSS1, MODIS-Aqua, and MODIS-Terra. Batch download this data with the getOC tool (it's fantastic): https://github.com/OceanOptics/getOC
