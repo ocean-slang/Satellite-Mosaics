@@ -2,6 +2,8 @@
 Easily create maps of Level-2 mosaics (created in NASA SeaDAS) in Matlab. Must be NetCDF files. Use with M_Map (https://www.eoas.ubc.ca/~rich/map.html)
 
 # How to set up folders
+<img width="311" alt="Screen Shot 2021-10-29 at 4 43 22 PM" src="https://user-images.githubusercontent.com/83712030/139499427-cad50cc9-68d9-4f1d-98bf-edc9e36bf9b9.png">
+
 - Add m_map to functions, found here: https://www.eoas.ubc.ca/~rich/map.html
 - Create mosaics and move to folder "mosaics"
 
