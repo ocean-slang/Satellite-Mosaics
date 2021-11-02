@@ -1,10 +1,12 @@
+% Code written by Sarah Lang, slang@uri.edu. University of Rhode Island's Graduate School of Oceanography.
+% November 1, 2021
+
 %% Read data
 cd '/Users/sarahlang/Desktop/mapL2/'; %change your cd
 
 % Add functions to path
 addpath('/Users/sarahlang/Desktop/mapL2/functions')
 addpath('/Users/sarahlang/Desktop/mapL2/functions/m_map')
-load coastlines
 
 % Loop Through Directory and Write Coordinates to a Structure
 sdir = dir('/Users/sarahlang/Desktop/mapL2/data/*nc');
